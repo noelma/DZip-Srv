@@ -1,5 +1,6 @@
 # DZip-Srv
 DZip-Srv offre une interface simple et épuré pour décompresser vos fichiers sur un serveur distant. Dans les cas où vous n'avez pas de serveur dédié et donc pas d'accès au protocole SSH il vous faut transvaser l'ensemble de vos fichiers avec le protocole FTP(~en règle générale).
+![Alt text](http://soosyze.com/img/dzip-srv.png)
 Dans les cas où vous avez de nombreux fichiers (comme l'installation d'un CMS, entre 2000 et 6000 fichiers) ou que vous avez un faible débit internet, l'opération peut être très longue. Si votre hébergeur n'offre pas la possibilité de décompresser les fichiers au moment du transfert. Et si les autres scripts sont trop complexes à utiliser, alors DZip-Srv répond à votre besoin.
 ## Prés-requis
 Avoir un serveur web (la base), avoir un client FTP (pour notre exemple nous utiliserons FileZilla) et avoir téléchargé Dzip-Srv.
